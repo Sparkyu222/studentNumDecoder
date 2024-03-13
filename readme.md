@@ -13,6 +13,7 @@ At this moment, this script will only print out the first table that it found.
 Before you get started with using this Python script, ensure you have the following dependencies installed:
 
 • `tabula`: A library for extracting tables from PDF files.
+
 • `pandas`: A powerful data manipulation library. (While tabula may install pandas as a dependency, ensure it is available in your environment.)
 
 ### Installation of Dependencies
